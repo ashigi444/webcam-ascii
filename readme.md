@@ -91,6 +91,7 @@ Coming soon:
 - Multiple character palettes
 - Color support
 - FPS control
+- Possibility to convert an image directly
 - Camera selection
 - Image quality improvements
 
